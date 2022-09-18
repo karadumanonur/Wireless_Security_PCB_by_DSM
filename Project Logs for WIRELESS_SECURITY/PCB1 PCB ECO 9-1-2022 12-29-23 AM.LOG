@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin= -4
+Removed Pin From Net: NetName=GND Pin=C15-1
+Change Designator: Invalid Designator
+Change Net Name : Old Net Name=Net _1 New Net Name=Net_1
+Added Pin To Net: NetName=Net_4 Pin= -4
+Added Pin To Net: NetName=Net_4 Pin=C15-1
+Added Net: Name=Net_4
+Add Class Member: Failed to add class member : Component  CRYSTAL 16.0000MHZ 20PF SMD

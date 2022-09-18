@@ -1,0 +1,47 @@
+Added Component: Designator=J5(JACK)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.mouser.com/ds/2/670/pj-037ah-smt-516065.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/670/pj-037ah-smt-516065.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.cui.com/product/resource/digikeypdf/pj-037ah-smt-tr.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.cui.com/product/resource/digikeypdf/pj-037ah-smt-tr.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.cui.com/product/resource/digikeypdf/pj-037ah-smt.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.cui.com/product/resource/digikeypdf/pj-037ah-smt.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Onur Karaduman"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PJ-037AH-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-25°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount,Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Conductors"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CP-037AHPJCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3VDC Pin=J5-1
+Added Pin To Net: NetName=+3.3VDC Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Member To Class: ClassName=Power Management Member=Component J5 PJ-037AH-SMT-TR

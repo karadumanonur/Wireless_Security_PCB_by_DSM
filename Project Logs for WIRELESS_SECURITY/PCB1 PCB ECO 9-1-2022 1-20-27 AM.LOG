@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+3.3VDC Pin=C13-2
+Removed Pin From Net: NetName=+3.3VDC Pin=C14-2
+Removed Pin From Net: NetName=+5VDC Pin=J6-1
+Removed Pin From Net: NetName=+3.3VDC Pin=U2-3
+Added Pin To Net: NetName=+3V3DC Pin=C13-2
+Added Pin To Net: NetName=+3V3DC Pin=C14-2
+Added Pin To Net: NetName=+3V3DC Pin=J6-1
+Added Pin To Net: NetName=+3V3DC Pin=U2-3

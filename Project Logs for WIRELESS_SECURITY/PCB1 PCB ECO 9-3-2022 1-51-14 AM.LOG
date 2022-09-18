@@ -1,0 +1,13 @@
+Added Component: Designator=J1(TBP01R1-508)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Onur Karaduman"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TBP01R1-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.59000, 10=0.30800, 25=0.21800, 50=0.18560, 100=0.17900, 400=0.15135, 800=0.13020, 1200=0.12369, 5200=0.09439 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "149748"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "102-6406-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AC_LINE_1 Pin=J1-1
+Added Pin To Net: NetName=AC_LINE_2 Pin=J1-2
+Added Member To Class: ClassName=Power Management Member=Component J1 TBP01R1-508-02BE

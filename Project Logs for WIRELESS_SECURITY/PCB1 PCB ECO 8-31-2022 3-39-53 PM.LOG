@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=WIFI_RXD Pin=U5-12
+Added Pin To Net: NetName=WIFI_TXD Pin=U5-13
+Added Pin To Net: NetName=TEMP_IN_CS Pin=U5-14
+Added Pin To Net: NetName=TEMP_IN_SCLK Pin=U5-15
+Added Pin To Net: NetName=TEMP_IN_SIO Pin=U5-17
+Added Pin To Net: NetName=TEMPERATURE_ADC Pin=U5-19
+Added Pin To Net: NetName=SENSOR ON/OFF Pin=U5-20
+Added Pin To Net: NetName=LED_DRIVER Pin=U5-21
+Added Pin To Net: NetName=SWDIO Pin=U5-34
+Added Pin To Net: NetName=SWCLK Pin=U5-37
+Added Pin To Net: NetName=TDI Pin=U5-38
+Added Pin To Net: NetName=RTC_SCL Pin=U5-42
+Added Pin To Net: NetName=RTC_SDA Pin=U5-43
+Added Pin To Net: NetName=TEMP_IN_OT Pin=U5-46

@@ -1,0 +1,23 @@
+Added Component: Designator=R1(RES_AXIAL_W)
+Add component (AddParameter): Name = "Case/Package"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Through-Hole Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/15772/fivewire-15772442.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/15772/fivewire-15772442.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Onur Karaduman"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NTE Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "5WD27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "270R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2368-5WD27-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "300ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Axial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AC_LINE_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Member To Class: ClassName=Power Management Member=Component R1 5WD27

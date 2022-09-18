@@ -1,0 +1,73 @@
+Added Component: Designator=U5(LQFP-48)
+Add component (AddParameter): Name = "Address Bus Width"; Value = "32b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/15122/getdatasheetpartid-69879-15122075.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/15122/getdatasheetpartid-69879-15122075.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/14100/pustm-arm-microcont-stm32f103-en-14100507.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/14100/pustm-arm-microcont-stm32f103-en-14100507.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "ARM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "32b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Onur Karaduman"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI,USART"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F103C6T6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Frequency"; Value = "72MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "363mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "32KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of ADC Channels"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I2C Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/Os"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Programmable I/O"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of SPI Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "POR,PWM,WDT,DMA,Temp Sensor,I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=7.21000, 10=6.47900, 25=6.12520, 80=5.30850, 250=5.03628, 500=4.53720 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 2"; Value = "1500=3.54321, 3000=3.47163, 6000=3.40005, 9000=3.32847, 12000=3.25689, 15000=3.18531, 150000=3.11373 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "10KB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "STM32F103C6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sleep Mode"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-11515-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "STM32F103C6T6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Watchdog Timer"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.006409oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC15_2 Pin=U5-5
+Added Pin To Net: NetName=NetC19_2 Pin=U5-6
+Added Pin To Net: NetName=NRST Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=+3.3VDC Pin=U5-9
+Added Pin To Net: NetName=NetR8_1 Pin=U5-18
+Added Pin To Net: NetName=NetJ7_5 Pin=U5-22
+Added Pin To Net: NetName=GND Pin=U5-23
+Added Pin To Net: NetName=+3.3VDC Pin=U5-24
+Added Pin To Net: NetName=NetR11_1 Pin=U5-27
+Added Pin To Net: NetName=MCU_N Pin=U5-32
+Added Pin To Net: NetName=MCU_P Pin=U5-33
+Added Pin To Net: NetName=GND Pin=U5-35
+Added Pin To Net: NetName=+3.3VDC Pin=U5-36
+Added Pin To Net: NetName=NetR3_2 Pin=U5-40
+Added Pin To Net: NetName=NetR2_2 Pin=U5-41
+Added Pin To Net: NetName=NetR10_2 Pin=U5-44
+Added Pin To Net: NetName=GND Pin=U5-47
+Added Pin To Net: NetName=+3.3VDC Pin=U5-48
+Added Member To Class: ClassName=Microcontroller Member=Component U5 STM32F103C6T6A
